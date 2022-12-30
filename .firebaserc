@@ -1,7 +1,0 @@
-{
-  "projects": {
-    "default": "amonitoring-airquality",
-    "amonitoring-airquality": "amonitoring-airquality"
-  },
-  "targets": {}
-}
